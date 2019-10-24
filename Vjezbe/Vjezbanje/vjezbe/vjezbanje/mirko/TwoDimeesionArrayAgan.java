@@ -25,8 +25,7 @@ public class TwoDimeesionArrayAgan {
 				System.out.print(twoD[i][j] + " ");
 				System.out.println();
 				}
-			 
-		
+			 		
 
 	}
 		
