@@ -1,4 +1,4 @@
-package vjezbe.vjezbanje.mirko;
+package vjezbe.vjezbanje.DataTypesVariablesArrays;
 
 public class Example2 {
 // println i print
